@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frekkenSnork
+- 👋 Hi, I’m Tanja
 - 👀 I’m interested in django+python_vue.js
 - 🌱 I’m currently learning drf
 - 💞️ I’m looking to collaborate on ...
